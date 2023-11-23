@@ -1,0 +1,12 @@
+#output {
+    background : white;
+    border-radius: 10px;
+    border-top: 10px solid black;
+    padding: 10px;
+    text-align: left;
+    float: none;
+}
+
+body{
+    background: burlywood;
+}
